@@ -151,4 +151,4 @@ Python is an easy to learn language many beginners to coding choose as their fir
 [beets]("https://github.com/sampsyo/beets) - This is a music library manager and MusicBrainz tagger.
 [Web.py]("https://github.com/webpy/webpy) - Web.py is a web framework for python that is very simple and powerful.
 [django-cms]("https://github.com/divio/django-cms)[django-cms] - The easy-to-use and developer-friendly CMS
-[Sick-Beard]("https://github.com/midgetspy/Sick-Beard) - This is a guide to PVR and it downloads and manages all your TV shows.
+[Sick-Beard]("https://github.com/midgetspy/Sick-Beard) - This is a guide to PVR and it downloads and manages all your TV shows..
